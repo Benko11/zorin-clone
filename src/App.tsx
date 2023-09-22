@@ -55,7 +55,7 @@ export default function App() {
           <input
             type="text"
             id="search"
-            className="bg-transparent text-center outline-none text-7xl"
+            className="bg-transparent text-center outline-none text-xl md:text-7xl"
             spellCheck={false}
             placeholder="Search"
             value={query}
